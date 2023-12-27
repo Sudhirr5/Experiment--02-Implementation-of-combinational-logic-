@@ -55,8 +55,6 @@ endmodule
 ## Output:
 ![image](https://github.com/Sudhirr5/Experiment--02-Implementation-of-combinational-logic-/assets/139332214/07f41201-60d0-4218-b5b4-94717106eb27)
 
-## Timing Diagram:
-![image](https://github.com/Sudhirr5/Experiment--02-Implementation-of-combinational-logic-/assets/139332214/7a92949d-e157-4588-9ff0-6a0f0512d8c5)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
