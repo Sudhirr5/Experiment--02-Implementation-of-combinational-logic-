@@ -1,7 +1,7 @@
 # Implementation of combinational logic
 
 ## Name : R. SUDHIR KUMAR
-## registration number : 212223230221
+## Registration Number : 212223230221
 
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
